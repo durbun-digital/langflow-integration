@@ -1,0 +1,33 @@
+# macOS system files
+.DS_Store
+
+# Python caches and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Node.js
+node_modules/
+
+# LangFlow or workflow generated files (optional)
+*.log
+*.tmp
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS temp files
+*.swp
+*.bak
+*.tmp
+
+# API key / secrets
+.env
+
