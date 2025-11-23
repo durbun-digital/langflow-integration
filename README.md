@@ -20,3 +20,4 @@ The goal of this repository is to serve as a **reference and collection of LangF
 
 * **Documentation and assets**
   Each integration folder contains instructions, optional images/diagrams, and environment notes
+  

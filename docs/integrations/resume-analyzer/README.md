@@ -35,7 +35,7 @@ resume-analyzer/
 
 ## 🚀 Getting Started
 
-1. Open your LangFlow server (`langflow run`)
+1. Open your LangFlow application
 2. Navigate to **Import Flow**
 3. Select `flow.json` from this folder
 4. Input your **Job Description** and **Resume**
