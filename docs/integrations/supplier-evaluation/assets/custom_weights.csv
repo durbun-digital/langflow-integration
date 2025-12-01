@@ -1,0 +1,11 @@
+index_name,metric,weight_percent,notes
+SPI,on_time_delivery,25,
+SPI,order_accuracy,20,
+SPI,lead_time_reliability,20,
+SPI,quality_defect_rate,20,
+SPI,responsiveness,15,
+SRI,risk_exposure,50,
+SRI,financial_stability,30,
+SRI,sustainability_score,20,
+OSS,SPI_contribution,60,Use SPI * 0.6
+OSS,risk_adjustment,40,Use (100 - SRI) * 0.4

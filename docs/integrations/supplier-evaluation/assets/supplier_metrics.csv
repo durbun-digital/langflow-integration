@@ -1,0 +1,9 @@
+metric,value,unit,notes
+on_time_delivery,92,percent,Based on last 12 months
+order_accuracy,96,percent,From ERP accuracy logs
+quality_defect_rate,1.8,percent,Lower is better
+lead_time_reliability,88,percent,Measured vs promised dates
+financial_stability,78,score,Based on credit reports
+responsiveness,90,score,Average response time SLAs
+sustainability_score,70,score,ESG audit results
+risk_exposure,22,score,Lower is better
